@@ -10,4 +10,5 @@ void even_or_odd(int x)
 int main()
 {
     even_or_odd(101);
+    return 0;
 }
