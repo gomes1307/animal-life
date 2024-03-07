@@ -9,4 +9,5 @@ int main()
     fehrenheit = (celsius * 9/5) + 32;
 
     printf("%.2f celsius is equal to %.2f fehrenheit",celsius,fehrenheit);
+    return 0;
 }
