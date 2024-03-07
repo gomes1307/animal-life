@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
    int numSubjects, i;
    float marks, total = 0, cgpa;
 
